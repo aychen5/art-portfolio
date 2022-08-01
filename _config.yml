@@ -8,7 +8,7 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://its-annies-art.netlify.app/"
+  url: "https://its-annies-art.netlify.app"
 
 header: images/logo.png
 
